@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+🌤️ Weather App
+Um app de clima construído com React Native e Expo. faz  integração com api trabalha com estados assíncronos
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Funcionalidades
+Buscar clima atual de qualquer cidade
 
-## Get started
+Exibir temperatura, condição climática, cidade e país
 
-1. Install dependencies
+Interface limpa e responsiva
 
-   ```bash
-   npm install
-   ```
+Atualização dinâmica dos dados via requisição HTTP
 
-2. Start the app
+🧰 Tecnologias Utilizadas
+React Native
 
-   ```bash
-    npx expo start
-   ```
+Expo
 
-In the output, you'll find options to open the app in a
+Axios
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+OpenWeatherMap API
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+📦 Instalação
+Siga os passos abaixo para rodar o projeto localmente:
 
-## Get a fresh project
+📚 Aprendizados
+Como consumir APIs REST no React Native
 
-When you're ready, run:
+Trabalhar com useState e useEffect
 
-```bash
-npm run reset-project
-```
+Realizar requisições HTTP com Axios
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Criar uma interface funcional com Expo
 
-## Learn more
+Tratamento de erros e carregamento dinâmico
 
-To learn more about developing your project with Expo, look at the following resources:
+📽️ Referência
+Este app foi desenvolvido com base no vídeo:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Build Weather App Using React Native | React Native Projects | Beginners
+YouTube: Assista aqui
